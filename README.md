@@ -1,0 +1,2 @@
+# Haiku-Generaattori
+Generoi haikuja
